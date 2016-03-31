@@ -1,1 +1,1 @@
-![alt tag](https://https://github.com/schecko/Pseudo-Mario/screen-0370.png)
+![alt tag](https://github.com/schecko/Pseudo-Mario/screen-0370.png)
