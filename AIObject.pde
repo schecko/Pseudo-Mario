@@ -35,4 +35,3 @@ class AIObject extends CharacterObject
     aI();
   }
 }
-

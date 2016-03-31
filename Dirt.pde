@@ -59,4 +59,3 @@ class Dirt extends Foreground
     popMatrix();
   }
 }
-

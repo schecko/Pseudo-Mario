@@ -90,4 +90,3 @@ class PseudoMario extends AIObject
     popMatrix();
   }
 }
-

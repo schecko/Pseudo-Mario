@@ -59,4 +59,3 @@ class Coin extends InteractibleObject
     }
   }
 }
-

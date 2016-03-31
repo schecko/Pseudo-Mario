@@ -89,4 +89,3 @@ class Portal extends Foreground
     popMatrix();
   }
 }
-

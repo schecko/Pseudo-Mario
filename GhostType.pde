@@ -88,4 +88,3 @@ class GhostType extends AIObject
     }
   }
 } //class
-

@@ -33,4 +33,3 @@ class Sun extends GameObject
     
   }
 }
-

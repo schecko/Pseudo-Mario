@@ -22,4 +22,3 @@ class Foreground extends InteractibleObject
     }
   }
 }
-

@@ -45,4 +45,3 @@ class PseudoFireBall extends InteractibleObject
     }
   }
 }
-

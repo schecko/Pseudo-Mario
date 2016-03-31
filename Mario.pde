@@ -444,4 +444,3 @@ class Mario extends CharacterObject
     popMatrix();
   }
 }
-

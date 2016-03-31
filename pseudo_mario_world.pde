@@ -2,6 +2,7 @@ import ddf.minim.*;
 import controlP5.*;
 ControlP5 cp5;
 Minim minim;
+
 AudioPlayer sound; //music object for the background
 AudioPlayer effect; //music object for game effects 
 AudioPlayer bossMusic; //background music for the boss fight
@@ -433,6 +434,10 @@ void keyPressed()
     if (keyCode == CONTROL)
     {
       gameState = MENU;
+    }
+        if (keyCode == ALT)
+    {
+      saveFrame();
     }
   }
 }

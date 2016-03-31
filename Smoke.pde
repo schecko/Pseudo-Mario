@@ -50,4 +50,3 @@ class Smoke extends GameObject
     popMatrix();
   }
 }
-

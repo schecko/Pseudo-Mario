@@ -42,4 +42,3 @@ class FireBall extends InteractibleObject
     }
   }
 }
-

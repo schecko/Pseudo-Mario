@@ -45,4 +45,3 @@ class SpringTrap extends InteractibleObject
     }
   }
 }
-

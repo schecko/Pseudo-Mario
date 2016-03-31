@@ -100,4 +100,3 @@ class Pillar extends GameObject
   }
 
 }
-

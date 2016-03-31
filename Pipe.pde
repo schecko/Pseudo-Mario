@@ -55,4 +55,3 @@ class Pipe extends GameObject
     popMatrix();
   }
 }
-

@@ -71,4 +71,3 @@ class SpikeTrap extends InteractibleObject
     }
   }
 }
-
