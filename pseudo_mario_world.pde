@@ -35,6 +35,10 @@ PVector deathSpot = new PVector(); //contains the original spawn location of the
 int deathCount; //counts the number of player deaths in lvl 2
 Menu menu; //menu object
 
+void settings()
+{
+    size(1500, 900, P2D);
+}
 
 //initializes the game by instantiating objects required for level one
 void setup()
@@ -45,7 +49,7 @@ void setup()
   frameRate(30);
   font = loadFont("FootlightMTLight-30.vlw");
   textFont(font);
-  size(1500, 900);
+
   menu = new Menu(false);
   setLevelOne();
   mario = new Mario(width/2, height/2, 50, 70, 3, 10);
@@ -435,7 +439,7 @@ void keyPressed()
     {
       gameState = MENU;
     }
-        if (keyCode == ALT)
+    if (keyCode == ALT)
     {
       saveFrame();
     }
